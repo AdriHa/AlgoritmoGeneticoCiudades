@@ -1,0 +1,10 @@
+C:\Users\haban\Documents\2021_1_ia_grupo1_equipob_\HabacucAndresHuertaMoreno17151238\AlgGen\AlgGen\obj\Debug\AlgGen.csprojAssemblyReference.cache
+C:\Users\haban\Documents\2021_1_ia_grupo1_equipob_\HabacucAndresHuertaMoreno17151238\AlgGen\AlgGen\obj\Debug\AlgGen.Form1.resources
+C:\Users\haban\Documents\2021_1_ia_grupo1_equipob_\HabacucAndresHuertaMoreno17151238\AlgGen\AlgGen\obj\Debug\AlgGen.Properties.Resources.resources
+C:\Users\haban\Documents\2021_1_ia_grupo1_equipob_\HabacucAndresHuertaMoreno17151238\AlgGen\AlgGen\obj\Debug\AlgGen.csproj.GenerateResource.cache
+C:\Users\haban\Documents\2021_1_ia_grupo1_equipob_\HabacucAndresHuertaMoreno17151238\AlgGen\AlgGen\obj\Debug\AlgGen.csproj.CoreCompileInputs.cache
+C:\Users\haban\Documents\2021_1_ia_grupo1_equipob_\HabacucAndresHuertaMoreno17151238\AlgGen\AlgGen\bin\Debug\AlgGen.exe.config
+C:\Users\haban\Documents\2021_1_ia_grupo1_equipob_\HabacucAndresHuertaMoreno17151238\AlgGen\AlgGen\bin\Debug\AlgGen.exe
+C:\Users\haban\Documents\2021_1_ia_grupo1_equipob_\HabacucAndresHuertaMoreno17151238\AlgGen\AlgGen\bin\Debug\AlgGen.pdb
+C:\Users\haban\Documents\2021_1_ia_grupo1_equipob_\HabacucAndresHuertaMoreno17151238\AlgGen\AlgGen\obj\Debug\AlgGen.exe
+C:\Users\haban\Documents\2021_1_ia_grupo1_equipob_\HabacucAndresHuertaMoreno17151238\AlgGen\AlgGen\obj\Debug\AlgGen.pdb
